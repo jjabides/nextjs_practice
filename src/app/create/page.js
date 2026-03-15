@@ -1,3 +1,4 @@
+import { CreatePost } from '@/components/CreatePost'
 export default function CreatePostPage() {
-    return <strong>Create</strong>
+    return <CreatePost />
 }
